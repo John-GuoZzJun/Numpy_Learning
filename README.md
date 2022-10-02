@@ -9,3 +9,8 @@ NumPy 是 Python 语言的一个第三方库，其支持大量高维度数组与
 
   NumPy 的主要对象是多维数组 Ndarray。在 NumPy 中维度 Dimensions 叫做轴 Axes，轴的个数叫做秩 Rank。
   注意，numpy.array 和 Python 标准库 array.array 并不相同，前者更为强大，这也就是我们学习 NumPy 的重要原因之一。
+
+一.如何创建
+二.数组运算
+三.索引的使用
+四.元素数据类型
